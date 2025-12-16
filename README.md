@@ -1,20 +1,39 @@
-<<<<<<< HEAD
-🌿 Leaf Disease Detection using CNN + Vision Transformer
+# 🌿 Leaf Disease Detection using CNN + Vision Transformer
 
 This project implements a deep learning–based system for classifying common wheat leaf diseases using a hybrid **Convolutional Neural Network (CNN)** and **Vision Transformer (ViT)** architecture. It provides a complete pipeline—from dataset preparation and model training to evaluation, Grad-CAM visualization, and deployment via a Flask web application.
 
-📌 Dataset
-The dataset consists of wheat leaf images organized for supervised learning with standard splits.
+---
 
-Classes (5)
+## 📚 Table of Contents
 
-BlackPoint
-FusariumFootRot
-HealthyLeaf
-LeafBlight
-WheatBlast
+- [📦 Dataset](#-dataset)
+- [🧠 Model Architecture](#-model-architecture)
+- [📁 Project Structure](#-project-structure)
+- [⚙️ Installation](#️-installation)
+- [🚀 Usage](#-usage)
+- [🌐 Web Application](#-web-application)
+- [💾 Saved Models](#-saved-models)
+- [🛠 Features](#-features)
+- [🧩 Dependencies](#-dependencies)
+- [🧪 Examples](#-examples)
+- [🐞 Troubleshooting](#-troubleshooting)
+- [✍️ Author](#️-author)
+- [📜 License](#-license)
 
-Dataset Structure
+---
+
+## 📦 Dataset
+
+The dataset contains labeled wheat leaf images categorized into the following five classes:
+
+- **BlackPoint**
+- **FusariumFootRot**
+- **HealthyLeaf**
+- **LeafBlight**
+- **WheatBlast**
+
+**Directory Structure:**
+```bash
 dataset1/
 ├── Train/
 │   ├── BlackPoint/
@@ -34,9 +53,9 @@ dataset1/
     ├── HealthyLeaf/
     ├── LeafBlight/
     └── WheatBlast/
+```
 
-
-⚠️ The dataset is not included in this repository.
+> ⚠️ **Note:** The dataset is not included in this repository.
 
 ### 🔗 Dataset Download
 
