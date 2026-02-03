@@ -4,13 +4,14 @@ This project implements a deep learning–based system for classifying common wh
 
 ---
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/khanaamer/wheat-leaf-disease-dataset)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c)
+[![CNN](https://img.shields.io/badge/Model-CNN-blue)](#)
 [![Flask](https://img.shields.io/badge/Built%20with-Flask-blue)](https://flask.palletsprojects.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-1.x-orange)](https://www.tensorflow.org/)
-[![Python](https://img.shields.io/badge/Python-3.10-green)](https://www.python.org/)
+[![ViT](https://img.shields.io/badge/Model-Vision%20Transformer-purple)](#)
+[![Computer Vision](https://img.shields.io/badge/Domain-Leaf%20Disease%20Detection-green)](#)
+[![Python](https://img.shields.io/badge/Python-3.10-yellow)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](#)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+
 
 
 ## 📚 Table of Contents
