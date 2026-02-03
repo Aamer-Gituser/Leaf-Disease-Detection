@@ -3,6 +3,15 @@
 This project implements a deep learning–based system for classifying common wheat leaf diseases using a hybrid **Convolutional Neural Network (CNN)** and **Vision Transformer (ViT)** architecture. It provides a complete pipeline—from dataset preparation and model training to evaluation, Grad-CAM visualization, and deployment via a Flask web application.
 
 ---
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/khanaamer/wheat-leaf-disease-dataset)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c)
+[![Flask](https://img.shields.io/badge/Built%20with-Flask-blue)](https://flask.palletsprojects.com/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-1.x-orange)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/Python-3.10-green)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](#)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+
 
 ## 📚 Table of Contents
 
