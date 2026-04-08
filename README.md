@@ -247,6 +247,15 @@ Key dependencies include:
 
 ---
 
+## 🔗 Associated Resources
+
+Kaggle Dataset:
+https://www.kaggle.com/datasets/khanaamer/wheat-leaf-disease-dataset
+Zendo Citation:
+https://doi.org/10.5281/zenodo.19465596
+
+---
+
 ## ✍️ Author
 
 **Aamer Khan**  
